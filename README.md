@@ -15,21 +15,21 @@
 
 
 ## DataSets Used
-> https://www.netmeds.com/prescriptions
-> https://www.kaggle.com/datasets/shudhanshusingh/az-medicine-dataset-of-india
+* https://www.netmeds.com/prescriptions
+* https://www.kaggle.com/datasets/shudhanshusingh/az-medicine-dataset-of-india
 
 ## Libraries Used
-*PaddleOCR - For Text Extraction from Image
-*Spacy - For Training NER Model
-*CV2 - For Image processing
-*NLTK - For Text processing
-*TTS - Google API for text to speech conversion
-*Streamlit - For building Web Application
+* PaddleOCR - For Text Extraction from Image
+* Spacy - For Training NER Model
+* CV2 - For Image processing
+* NLTK - For Text processing
+* TTS - Google API for text to speech conversion
+* Streamlit - For building Web Application
 
 ## Colab Links
-*https://drive.google.com/file/d/1Oefz3h4L8HuvCmqtIBojE8CEd2AelaFi/view?usp=sharing
-*https://drive.google.com/file/d/1rHzwlU06lhOCP87o3-0VF8hz5Nu_t3km/view?usp=share_link
-*https://drive.google.com/file/d/1YeHwZvFBbcqymMpn0uyOvYScxxL43mns/view?usp=sharing
+* https://drive.google.com/file/d/1Oefz3h4L8HuvCmqtIBojE8CEd2AelaFi/view?usp=sharing
+* https://drive.google.com/file/d/1rHzwlU06lhOCP87o3-0VF8hz5Nu_t3km/view?usp=share_link
+* https://drive.google.com/file/d/1YeHwZvFBbcqymMpn0uyOvYScxxL43mns/view?usp=sharing
 
 
 
