@@ -1,4 +1,4 @@
-# NLP-Tablets-Annotation
+## NLP-Tablets-Annotation
   >Given a set of tablets images, do OCR, convert the image to text, extract necessary details such as name of medicine, molecules in it, date of manufacturing, date of expiry. Convert this text into speech. This can be done by creating a drug database by scraping drug details and form a lexicon. Can use api for text to speech conversion
   
   ## Tasks Done
@@ -11,7 +11,20 @@
 - [x] Training NER Model using Spacy with Training data
 - [x] Extracting Required Entities from given text
 - [x] Forming Lexicon for different categories of Image
-- [x] Displaying the eend results in Web App built using Stremlit
+- [x] Displaying the eend results in Web App built using Streamlit
+
+
+## DataSets Used
+> https://www.netmeds.com/prescriptions
+> https://www.kaggle.com/datasets/shudhanshusingh/az-medicine-dataset-of-india
+
+##Libraries Used
+> PaddleOCR - For Text Extraction from Image
+> Spacy - For Training NER Model
+> CV2 - For Image processing
+> NLTK - For Text processing
+> TTS - Google API for text to speech conversion
+> Streamlit - For building Web Application
 
 
 
