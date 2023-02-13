@@ -14,7 +14,7 @@
 - [x] Displaying the eend results in Web App built using Streamlit
 
 
-## DataSets Used
+## Datasets Used
 * https://www.netmeds.com/prescriptions
 * https://www.kaggle.com/datasets/shudhanshusingh/az-medicine-dataset-of-india
 
