@@ -1,19 +1,13 @@
 import streamlit as st
 import pandas as pd
-import math
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
-import pickle
 import plotly.express as px
 import spacy
-from PIL import Image
 from gtts import gTTS
-import IPython.display as ipd
 from paddleocr import PaddleOCR
 import cv2
 import numpy as np
-from pathlib import Path
-import spacy_transformers
 import pathlib
 temp = pathlib.PosixPath
 pathlib.PosixPath = pathlib.WindowsPath
@@ -27,7 +21,7 @@ def create_ocr():
 
 @st.cache_resource
 def get_model():
-    filepath = r"F:\Desktop\NLP\venv\spacy_model.pkl"
+    filepath = r"model\spacy_model.pkl"
     nlp = pd.read_pickle(filepath)
     return nlp
 
