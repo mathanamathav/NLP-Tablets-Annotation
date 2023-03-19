@@ -1,5 +1,23 @@
-## NLP-Tablets-Annotation
-  >Given a set of tablets images, do OCR, convert the image to text, extract necessary details such as name of medicine, molecules in it, date of manufacturing, date of expiry. Convert this text into speech. This can be done by creating a drug database by scraping drug details and form a lexicon. Can use api for text to speech conversion
+<div align="center">
+<h1> NLP-Tablets-Annotation
+</h1>
+
+<p>
+Given a set of tablets images, do OCR, convert the image to text, extract necessary details such as name of medicine, molecules in it, date of manufacturing, date of expiry. Convert this text into speech. This can be done by creating a drug database by scraping drug details and form a lexicon. Can use api for text to speech conversion
+</p>
+
+<p align="center">
+   <img src="https://skillicons.dev/icons?i=python,github" />
+</p>
+
+![Streamlit](https://img.shields.io/static/v1?style=for-the-badge&message=Streamlit&color=FF4B4B&logo=Streamlit&logoColor=FFFFFF&label=)
+<hr>
+</div>
+
+![CPT2303191942-800x800](https://user-images.githubusercontent.com/62739618/226181871-0e53c1d8-fd84-429d-a6fb-a6818c0cd0db.gif)
+
+
+Download the required model from [here](https://drive.google.com/drive/folders/1wvtpL5KASuDovq_3AdhAgutqQM3waEYO?usp=sharing) add it to model folder.
   
   ## Tasks Done
 - [x] Scraping Medicine Images from https://www.netmeds.com/prescriptions
