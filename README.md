@@ -16,6 +16,7 @@ Given a set of tablets images, do OCR, convert the image to text, extract necess
 
 ![CPT2303191942-800x800](https://user-images.githubusercontent.com/62739618/226181871-0e53c1d8-fd84-429d-a6fb-a6818c0cd0db.gif)
 
+Checkout the report made for this project [here](https://curvy-mimosa-fce.notion.site/NLP-Tablets-Annotation-08d6e264d12b401c847d43e9f844f773).
 
 Download the required model from [here](https://drive.google.com/drive/folders/1wvtpL5KASuDovq_3AdhAgutqQM3waEYO?usp=sharing) add it to model folder.
   
